@@ -55,3 +55,30 @@ nav a:hover {
     color: #31343d;
 }
 /* end header */
+
+/* hero */
+.hero {
+    background-image: url("..//images/bg.jpg");
+    height: 200px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+
+.hero h2 {
+    color: #31343d;
+    padding: 5px;
+    background-color: #92cccd;
+    margin: 50px;
+    font-size: 30px;
+    flex: 1 1 1;
+}
+/* end hero */
+
+.profile-picture {
+    margin: 0 20px;
+    border-radius: 25%;
+    width: 150px;
+    height: 150px;
+}
+
