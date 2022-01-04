@@ -1,4 +1,4 @@
-# 02 Advanced CSS: Professional Portfolio
+# Advanced CSS: Professional Portfolio
 
 This is a web site containing my skills and talents:
 
@@ -12,5 +12,5 @@ This is a web site containing my skills and talents:
 
 ![Portfolio website screenshot](./assets/images/portfolio.jpg)
 
-## Repositoy: https://github.com/dpmurphy11/portfolio
-## Website: https://dpmurphy11.github.io/portfolio/
+## Repositoy: https://github.com/dpmurphy11/professional-portfolio
+## Website: https://dpmurphy11.github.io/professional-portfolio/
