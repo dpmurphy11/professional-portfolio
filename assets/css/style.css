@@ -139,7 +139,7 @@ nav a:hover {
 .work-item-1 {
     position: relative;
     margin: 5px;
-    flex: 1 1 100%;
+    flex: 0 0 100%;
     /* must change min-width: auto (default)
     which means the flex itm can't shrink below the image inside */
     min-width: 0;
@@ -150,7 +150,7 @@ nav a:hover {
     opacity: 1;
     /* part of above fix */
     width: 100%; 
-    height: auto;
+    /* height: auto; */
 }
 
 .work-item-1 img:hover {
@@ -167,7 +167,7 @@ nav a:hover {
     border: 3px solid #92cccd;
     opacity: 1;
     width: 100%;
-    height: auto;
+    /* height: auto; */
 }
 
 .work-item img:hover {
@@ -189,7 +189,7 @@ nav a:hover {
     padding: 5px;
     background-color: #92cccd;
     top: 75%;
-    font-size:1.2em;
+    /* font-size:1.2em; */
     line-height: 1.2;
 }
 /* end work */
