@@ -192,6 +192,14 @@ nav a:hover {
     /* font-size:1.2em; */
     line-height: 1.2;
 }
+
+.work-tab a, .work-tab-1 a {
+    color: blue;
+    text-decoration: none;
+}
+.work-tab a:hover, .work-tab-1 a:hover {
+    text-decoration: underline;
+}
 /* end work */
 
 /* contact */
